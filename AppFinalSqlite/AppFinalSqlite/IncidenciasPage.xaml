@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppFinalSqlite.IncidenciasPage">
+    <ContentPage.Content>
+        <StackLayout Margin="20" VerticalOptions="StartAndExpand">
+            
+            <Label Text="Responsable" />
+            <Entry Text="{Binding responsable}" />
+            
+            <Label Text="Motivo" />
+            <Entry Text="{Binding motivo}" />
+            
+            <Label Text="Tipo de incidencia" />
+            <Entry Text="{Binding tipoIncidencia}" />
+            
+            <Label Text="Fecha de la incidencia" />
+            <Entry Text="{Binding fechaIncidencia}" />
+            
+            <Label Text="Estado" />
+            <Entry Text="{Binding estado}" />
+            
+            
+            <Button Text="Guardar" Clicked="OnSaveClicked" />
+            <Button Text="Eliminar" Clicked="OnDeleteClicked" />
+            <Button Text="Cancelar" Clicked="OnCancelClicked" />
+            
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\bin\Debug\netstandard2.0\AppFinalSqlite.deps.json
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\bin\Debug\netstandard2.0\AppFinalSqlite.dll
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\AppFinalSqlite.csprojAssemblyReference.cache
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\AppFinalSqlite.csproj.CoreCompileInputs.cache
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\AppFinalSqlite.AssemblyInfoInputs.cache
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\AppFinalSqlite.AssemblyInfo.cs
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\IncidenciasPage.xaml.g.cs
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\ListaDeIncidencias.xaml.g.cs
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\bin\Debug\netstandard2.0\AppFinalSqlite.pdb
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\AppFinalSqlite.dll
+C:\Users\Josue\source\repos\AppFinalSqlite\AppFinalSqlite\AppFinalSqlite\obj\Debug\netstandard2.0\AppFinalSqlite.pdb
